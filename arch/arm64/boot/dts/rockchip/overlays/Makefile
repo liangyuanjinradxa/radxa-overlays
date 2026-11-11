@@ -641,6 +641,7 @@ dtb-$(CONFIG_CPU_RK3588) += \
 	rock-5-itx-radxa-camera-8m-219-on-cam1.dtbo \
 	rock-5-itx-radxa-camera-13m-214-on-cam0.dtbo \
 	rock-5-itx-radxa-camera-13m-214-on-cam1.dtbo \
+	rock-5-itx-cam0-radxa-hdmi-in-4k-rk628.dtbo \
 	rock-5-itx-radxa-display-8hd-on-lcd0.dtbo \
 	rock-5-itx-radxa-display-8hd-on-lcd1.dtbo \
 	rock-5-itx-radxa-display-10fhd-on-lcd0.dtbo \
